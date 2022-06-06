@@ -1,0 +1,2 @@
+py_stream/src/stream_pkg
+-DCATKIN_DEVEL_PREFIX=/home/pathcmd/Desktop/Git/catkin_ws_stream/devel -DCMAKE_INSTALL_PREFIX=/home/pathcmd/Desktop/Git/catkin_ws_stream/install -G Unix Makefiles
